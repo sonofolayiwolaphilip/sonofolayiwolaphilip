@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sonofolayiwolaphilip
+- 👋 Hi, I’m JOshua
 - 👀 I’m interested in WEB DEVELOPMENT
 - 🌱 I’m currently learning FRONT END WEB DEVELOPMENT
 - 💞️ I’m looking to collaborate on WEB TECHNOLOGIES
