@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Joshua
 - 👀 I’m interested in WEB DEVELOPMENT
-- 🌱 I’m currently learning FRONT END WEB DEVELOPMENT
+- 🌱 I’m WEB DEVELOPER
 - 💞️ I’m looking to collaborate on WEB TECHNOLOGIES
 - 📫 How to reach me sonofolayiwolaphilip@gmail.com
 
